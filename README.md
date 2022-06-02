@@ -1,1 +1,1 @@
-# FuseDdos
+run in you windows
